@@ -34,6 +34,24 @@ The following tools were used in the analysis.
 - For Data analysis 
 - For Data Visualization
 
+  ## Exploratory Data Analysis
+
+  1. Top-selling Product: Shoe is the top-selling product, while socks are the lowest-selling product as shown in the bar chart below
+
+     
+![Top-sellingP](https://github.com/user-attachments/assets/b184b171-635d-40bc-8b6d-c4d161edec70)
+
+2. Regional Performance: The south region is the best-performing region with a revenue generation of 44.16% of the total revenue as shown in the pie chart below
+   
+
+![SalesByRegion](https://github.com/user-attachments/assets/967d29e4-9cf1-4d5f-ab4b-4b13e0177c20)
+
+3. Total Revenue per Year: The analysis revealed a decline in the total revenue from 2023 to 2024. The year 2023 recorded more sales than the year 2024 as shown below
+   
+
+   ![RevenuePerYear](https://github.com/user-attachments/assets/662d1cf7-dde5-4aa9-9326-1e3daf2c93da)
+
+
 
 
 
