@@ -50,10 +50,31 @@ The following tools were used in the analysis.
    
 
    ![RevenuePerYear](https://github.com/user-attachments/assets/662d1cf7-dde5-4aa9-9326-1e3daf2c93da)
+   
+5. Product yearly performance between years 2023 and 2024: 
+   
+
+![Pivot5_SalesData](https://github.com/user-attachments/assets/cd6e16c1-d9d2-4e9e-8926-8659b389bd16)
+
+As shown in the table;
+- Gloves maintained the same sales.
+- Hat, Jacket and Shoes recorded an increase in sales
+- Shirt and Socks recorded a decline in sales
+
+
+6. Monthly Sales Trend
+
+   
+![Pivot6_SalesData](https://github.com/user-attachments/assets/f207d103-e2b5-462a-a360-7f58eba9e1bb)
 
 
 
+![Pivot7_SalesData](https://github.com/user-attachments/assets/98d620e5-33ae-4b71-bd7a-586dd423ac79)
 
+7. Yearly Regional Sales Trend 
+
+
+![Pivot9_SalesData](https://github.com/user-attachments/assets/6770bb80-0d5d-4806-ae64-e9c0c19bb4a3)
 
 
 
