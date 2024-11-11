@@ -87,7 +87,8 @@ As shown in the table;
 ![Pivot10 SalesData](https://github.com/user-attachments/assets/50a63343-a73c-4169-a7a7-0c90319553f1)
 
 
-![Pivot7_SalesData](https://github.com/user-attachments/assets/98d620e5-33ae-4b71-bd7a-586dd423ac79)
+![salesTrend](https://github.com/user-attachments/assets/368df9d6-e6e8-456e-8dee-819b7e25bda4)
+
 
 7. **Yearly Regional Sales Trend** 
 
@@ -99,12 +100,12 @@ As shown in the table;
    The result helps to identify loyal customers which aids in customer appreciation strategies
    
    ```SQL
-   SELECT SUM(Total_Sales), [Customer Id]
+       SELECT SUM(Total_Sales), [Customer Id]
+       FROM SalesData$
+       GROUP BY [Customer Id]
+       ORDER BY SUM(Total_Sales) desc
 
-FROM SalesData$
-GROUP BY [Customer Id]
-ORDER BY SUM(Total_Sales) desc
-```
+
 
 ![Pivot11_SalesData](https://github.com/user-attachments/assets/5e0f7cb6-0084-4b01-98a1-9246a74ef7bd)
 
