@@ -45,6 +45,7 @@ The following tools were used in the analysis.
  SELECT SUM(Total_Sales) as TotalSalesPerProduct, Product FROM SalesData$
 GROUP BY Product
 ORDER BY SUM(Total_Sales) desc
+```
 
 
 ![Query](https://github.com/user-attachments/assets/72f83be3-e8df-4127-8a54-b3edd4329b24)
