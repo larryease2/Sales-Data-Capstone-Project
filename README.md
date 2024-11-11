@@ -1,7 +1,7 @@
 # Sales-Data-Capstone-Project
 
 ## Project Overview
-This project analyzes a retail store's sales performance. The goal is to explore sales data to uncover key insights such as top-selling products, regional performance, and monthly sales trends. The project also aims to produce an interactive Power BI dashboard highlighting these findings.
+This project analyzes a retail store's sales performance. The goal is to explore sales data to uncover key insights such as top-selling products, regional performance, and monthly sales trends. The project also aims to produce an interactive Power BI and Excel dashboard highlighting these findings.
 
 ## Data Collected
 1. The dataset includes the following key columns:
