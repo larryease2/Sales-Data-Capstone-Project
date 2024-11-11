@@ -31,13 +31,13 @@ This project was designed to address the following analysis goals:
 
 ## Tools Used
 The following tools were used in the analysis.
-1.  Microsoft Excel
+1.  Microsoft Excel  [Download here](https://www.microsoft.com/en-us/microsoft-365/download-office):
 - For Data Cleaning
 - For Data Transformation
 - For Data Visualization
-2. GitHub for Portfolio Building
-3. SQL Server to write Query
-4. PowerBI
+2. GitHub for Portfolio Building  [Download here](https://github.com):
+3. SQL Server to write Query [Download here](https://www.microsoft.com/en-za/sql-server/sql-server-downloads)
+4. PowerBI [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - For Data analysis 
 - For Data Visualization
 
@@ -145,8 +145,9 @@ Revenue declined in the East and South regions while increasing in the North and
 
 Focused marketing efforts and customer engagement strategies may be necessary to revitalize sales in declining regions.
 
+![xxx](https://github.com/user-attachments/assets/95e5c674-ac2c-4f1b-a8db-74bb22dd2ae9)
 
-![PowerBI_SalesData](https://github.com/user-attachments/assets/fedd1c06-1350-46de-a9de-e48a6c027a6c)
+
 
 
 
