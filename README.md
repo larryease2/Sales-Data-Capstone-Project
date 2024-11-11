@@ -94,6 +94,21 @@ As shown in the table;
 
 ![Pivot9_SalesData](https://github.com/user-attachments/assets/6770bb80-0d5d-4806-ae64-e9c0c19bb4a3)
 
+8. **Top 5 customers by total purchase amount**
+
+   The result helps to identify loyal customers which aids in customer appreciation strategies
+   
+   ```SQL
+   SELECT SUM(Total_Sales), [Customer Id]
+
+FROM SalesData$
+GROUP BY [Customer Id]
+ORDER BY SUM(Total_Sales) desc
+```
+
+![Pivot11_SalesData](https://github.com/user-attachments/assets/5e0f7cb6-0084-4b01-98a1-9246a74ef7bd)
+
+
 
 ## Observations
 Revenue declined in the East and South regions while increasing in the North and West regions. The West market is experiencing low revenue generation. The company may need to investigate the causes of this decline, such as changes in consumer behaviour, economic factors, or competitive pressures.
