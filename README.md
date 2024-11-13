@@ -45,9 +45,9 @@ The following tools were used in the analysis.
 
   ## Exploratory Data Analysis
 
-  1. **Top-selling Product**
+  1. ## Top-selling Product
 
- The top-selling product is shoes, while socks is the lowest-selling product as shown in the bar chart below
+    The top-selling product is shoes, while socks is the lowest-selling product as shown in the bar chart below
 
  ```SQL QUERY
 
@@ -65,7 +65,7 @@ ORDER BY SUM(Total_Sales) desc
 
 
 
-2. **Regional Performance**
+2. ## Regional Performance
    
  The south region is the best-performing region with a revenue generation of 44.16% of the total revenue as shown in the pie chart below
    
@@ -75,7 +75,7 @@ ORDER BY SUM(Total_Sales) desc
 
 
 
-3. **Total Revenue per Year**
+3. ## Total Revenue per Year
 
    The analysis revealed a decline in the total revenue from 2023 to 2024. The year 2023 recorded more sales than the year 2024 as shown below
    
@@ -85,7 +85,7 @@ ORDER BY SUM(Total_Sales) desc
 
    
    
-5. **Product yearly performance between years 2023 and 2024** 
+4. ## Product yearly performance between years 2023 and 2024
    
 
 ![Pivot5_SalesData](https://github.com/user-attachments/assets/cd6e16c1-d9d2-4e9e-8926-8659b389bd16)
@@ -99,7 +99,7 @@ As shown in the table;
 
 
 
-6. **Monthly Sales Trend**
+5. ## Monthly Sales Trend
 
    
 ![Pivot6_SalesData](https://github.com/user-attachments/assets/f207d103-e2b5-462a-a360-7f58eba9e1bb)
@@ -114,7 +114,7 @@ As shown in the table;
 
 
 
-7. **Yearly Regional Sales Trend** 
+6. ## Yearly Regional Sales Trend
 
 
 ![Pivot9_SalesData](https://github.com/user-attachments/assets/6770bb80-0d5d-4806-ae64-e9c0c19bb4a3)
@@ -122,7 +122,7 @@ As shown in the table;
 
 
 
-8. **Top 5 customers by total purchase amount**
+7. ## Top 5 customers by total purchase amount
 
    The result helps to identify loyal customers which aids in customer appreciation strategies
    
